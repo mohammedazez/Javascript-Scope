@@ -1,3 +1,8 @@
+# Javascript-Scope
+
+https://www.w3schools.com/js/js_scope.asp JS Scope
+https://developer.mozilla.org/en-US/docs/Glossary/Scope Scope
+
 Scope adalah konsep dalam flow data variabel. ​
 Menentukan suatu variabel bisa diakses pada scope tertentu atau tidak.
 
@@ -26,4 +31,3 @@ Namun jika kamu tinggal di Bandung, kamu tidak akan bisa melihat monas yang bera
    }
    console.log(greeting()); /_Output Raisha _/
    console.log(myName); /_Error tidak ada output karena myName tidak dapat ditentukan karena local scope _/
-# Javascript-Scope
