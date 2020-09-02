@@ -1,24 +1,16 @@
-# Javascript-Scope
-
-https://www.w3schools.com/js/js_scope.asp JS Scope
-https://developer.mozilla.org/en-US/docs/Glossary/Scope Scope
-
-# Javascript-Scope [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Javascript-Scope [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
 > Mengenal Javascript Scope
 
-Javascript Scope akan memilih kondisi true atau yang benar yang akan dijalankan.
+Javascript Scope merupakan tulis arti yang menjelaskan javascript ini dengan jelas dan mudah analogi yang mudah dipahami.
 
 ## Dokumentasi Javascript Scope
 
-- [JS Loop for](https://www.w3schools.com/js/js_loop_for.asp) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [JS Loop While](https://www.w3schools.com/js/js_loop_while.asp) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [JS Comparison](https://www.w3schools.com/js/js_comparisons.asp) - Project logo. Clear description of what the project does. GIF Demo. TOC for easy navigation. Badges. Links for further reading. Simple install instructions.
-- [Statemen Looping](https://www.w3schools.com/JSREF/jsref_for.asp) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
-- [loops and iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+- [JS Scope(https://www.w3schools.com/js/js_scope.asp) - Tulis deskripsi yang mengambarkan sintak ini dengan jelas dan mudah dipahami.
+- [Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope) - Tulis deskripsi yang mengambarkan sintak ini dengan jelas dan mudah dipahami.
 
 
 ## Artikel lain
 
-- ["Memahami 6 Bentuk Percabangan pada Javascript"](https://www.petanikode.com/javascript-percabangan/#readme) - _Petani kode_
-- ["Javascript Conditional"](https://studentutac-my.sharepoint.com/:p:/r/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B8B8FF38C-3C3D-4CBF-BA9F-6EEB288F88B6%7D&file=JAVASCRIPT%20-%20CONDITIONAL.pptx&action=edit&mobileredirect=true) - _Materi Belajar_
+- ["Bermain Scope di JavaScript"](https://medium.com/@adhywiranata/bermain-scope-di-javascript-d954e07d05ae#:~:text=Lexical%20scope%20adalah%20scope%20yang,kita%20harus%20mencari%20sebuah%20variable.) - _Medium_
+- ["Javascript Scope"](https://studentutac-my.sharepoint.com/personal/041214065_ecampus_ut_ac_id/_layouts/15/Doc.aspx?sourcedoc=%7B5E6BCB74-F0B9-498F-B76B-99D0D68D95C4%7D&file=1.%20Javascript%20-%20Scope.pptx&action=edit&mobileredirect=true&CT=1599054099120&OR=ItemsView) - _Materi Belajar_
